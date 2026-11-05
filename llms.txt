@@ -1,0 +1,23 @@
+# Pediatrik Doz (Pediatric Dose)
+
+> Çocuk hekimleri için mobil klinik yardımcı: kiloya ve endikasyona göre 130 ilacın doz hesabı, yaşa göre pediatrik normal değerler, 13 klinik hesaplayıcı, 8 klinik skor, ulusal aşı takvimi ve kortikosteroid eşdeğerlikleri. Android'de yayında, iOS yakında. Çevrimdışı, reklamsız, Türkçe ve İngilizce. Geliştirici: SeyApps (Yusuf Kemal Çağatay Seymen, çocuk sağlığı ve hastalıkları hekimi).
+
+Temel gerçekler:
+- Ücretsiz indirme; 20 temel ilaç ve temel hesaplayıcı/skorlar ücretsiz; Premium: aylık, 6 aylık veya tek seferlik ömür boyu (fiyat mağazada).
+- Hedef kitle: pediatri uzman ve asistanları, çocuk acil/YYBÜ/ÇYBÜ ekipleri, aile hekimleri, pediatri hemşireleri, tıp öğrencileri.
+- Hesaplayıcılar: BSA (Mosteller), QTc (Bazett, Fridericia, Framingham, Ashman), Holliday-Segar idame sıvı, HOMA-IR, düzeltilmiş Ca/Na/anyon açığı/K, eGFR (bedside Schwartz, sistatin C, CKiD 2012, CKiD U25), TRP/TmP-GFR, FENa, FEK, 24 saatlik proteinüri, Kt/V, düzeltilmiş retikülosit/RPI, IV demir.
+- Skorlar: Brighton PEWS, Apgar, pediatrik GKS, PUCAI, McIsaac, Duke-ISCVID 2023, Phoenix sepsis skoru, pSOFA.
+- Veri toplamaz; girdiler cihazda kalır. Tıbbi tavsiye veya tıbbi cihaz değildir; klinik karar hekime aittir.
+- Android paket adı: com.pediatrikdoz.pediatrik_doz. İletişim: cagatayseyy@gmail.com
+
+## Sayfalar
+
+- [Ana sayfa (TR)](https://cagatayseyy-cmyk.github.io/pediatrikdoz-site/): özellikler, nasıl çalışır, SSS.
+- [Home (EN)](https://cagatayseyy-cmyk.github.io/pediatrikdoz-site/en/): English overview and FAQ.
+- [Gizlilik Politikası ve KVKK](https://cagatayseyy-cmyk.github.io/pediatrikdoz-site/gizlilik/): işlenen veriler, abonelik, üçüncü taraflar (TR+EN).
+- [Kullanım Koşulları](https://cagatayseyy-cmyk.github.io/pediatrikdoz-site/kullanim-kosullari/): sorumluluk reddi, profesyonel kullanım beyanı, abonelik şartları (TR+EN).
+- [Google Play listesi](https://play.google.com/store/apps/details?id=com.pediatrikdoz.pediatrik_doz): indirme sayfası.
+
+## Optional
+
+- [Eski gizlilik sayfası](https://cagatayseyy-cmyk.github.io/pediatrik-doz-privacy/): mağazalarda kayıtlı gizlilik adresi.
